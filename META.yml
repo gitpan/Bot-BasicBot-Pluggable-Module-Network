@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: Bot-BasicBot-Pluggable-Module-Network
-version: 0.8
+version: 0.9
 author: Simon Wistow <simon@thegestalt.org>
 abstract: |-
   various network plugins for Bot::BasicBot::Pluggable
